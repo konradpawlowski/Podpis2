@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4CSmntB5XqClTnNVFRDtLJbo3Zx7XMni74z82oyL3MqMUHclkdWdj45nEX/ReZBnjEMB2azGfcoCMdidcpGmdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\konra\\RiderProjects\\Podpis2\\XmlSign\\XmlSign.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\konra\\.nuget\\packages\\system.formats.asn1\\7.0.0\\system.formats.asn1.7.0.0.nupkg.sha512",
+    "C:\\Users\\konra\\.nuget\\packages\\system.security.cryptography.pkcs\\7.0.0\\system.security.cryptography.pkcs.7.0.0.nupkg.sha512",
+    "C:\\Users\\konra\\.nuget\\packages\\system.security.cryptography.xml\\7.0.1\\system.security.cryptography.xml.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
