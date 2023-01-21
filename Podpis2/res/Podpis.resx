@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="DetachedSignedDocumentTemplate" xml:space="preserve">
+    <value>&lt;ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-0"&gt;
+    &lt;ds:SignedInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="SignedInfo-0"&gt;
+        &lt;ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"&gt;&lt;/ds:CanonicalizationMethod&gt;
+        &lt;ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"&gt;&lt;/ds:SignatureMethod&gt;
+        &lt;ds:Reference Id="SignedProperties-Reference0" Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-0"&gt;
+            &lt;ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"&gt;&lt;/ds:DigestMethod&gt;
+            &lt;ds:DigestValue&gt;{signed-properties-reference}&lt;/ds:DigestValue&gt;
+        &lt;/ds:Reference&gt;
+        &lt;ds:Reference URI="detached-file"&gt;
+            &lt;ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"&gt;&lt;/ds:DigestMethod&gt;
+            &lt;ds:DigestValue&gt;{document-reference}&lt;/ds:DigestValue&gt;
+        &lt;/ds:Reference&gt;
+    &lt;/ds:SignedInfo&gt;
+    &lt;ds:SignatureValue Id="SignatureValue-0"&gt;{signature-value}&lt;/ds:SignatureValue&gt;
+    &lt;ds:KeyInfo Id="KeyInfo-0"&gt;
+        &lt;ds:X509Data&gt;
+            &lt;ds:X509Certificate&gt;{certificate}&lt;/ds:X509Certificate&gt;
+        &lt;/ds:X509Data&gt;
+    &lt;/ds:KeyInfo&gt;
+    &lt;ds:Object&gt;
+        &lt;xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature-0"&gt;
+            &lt;xades:SignedProperties xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="SignedProperties-0"&gt;
+                &lt;xades:SignedSignatureProperties&gt;
+                    &lt;xades:SigningCertificate&gt;
+                        &lt;xades:Cert&gt;
+                            &lt;xades:CertDigest&gt;
+                                &lt;ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"&gt;&lt;/ds:DigestMethod&gt;
+                                &lt;ds:DigestValue&gt;{certificate-digest}&lt;/ds:DigestValue&gt;
+                            &lt;/xades:CertDigest&gt;
+                            &lt;xades:IssuerSerial&gt;
+                                &lt;ds:X509IssuerName&gt;{certificate-issuer}&lt;/ds:X509IssuerName&gt;
+                                &lt;ds:X509SerialNumber&gt;{certificate-serial}&lt;/ds:X509SerialNumber&gt;
+                            &lt;/xades:IssuerSerial&gt;
+                        &lt;/xades:Cert&gt;
+                    &lt;/xades:SigningCertificate&gt;
+                &lt;/xades:SignedSignatureProperties&gt;
+            &lt;/xades:SignedProperties&gt;
+        &lt;/xades:QualifyingProperties&gt;
+    &lt;/ds:Object&gt;
+&lt;/ds:Signature&gt;</value>
+  </data>
+  <data name="SignedDocumentTemplate" xml:space="preserve">
+    <value>&lt;ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-0"&gt;
+  &lt;ds:SignedInfo Id="SignedInfo-0"&gt;
+    &lt;ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"&gt;&lt;/ds:CanonicalizationMethod&gt;
+    &lt;ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"&gt;&lt;/ds:SignatureMethod&gt;
+    &lt;ds:Reference Id="SignedProperties-Reference0" URI="#SignedProperties-0" Type="http://uri.etsi.org/01903#SignedProperties"&gt;
+      &lt;ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"&gt;&lt;/ds:DigestMethod&gt;
+      &lt;ds:DigestValue&gt;{signed-properties-reference}&lt;/ds:DigestValue&gt;
+    &lt;/ds:Reference&gt;
+	&lt;ds:Reference URI="#Dokument-0"&gt;
+      &lt;ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"&gt;&lt;/ds:DigestMethod&gt;
+      &lt;ds:DigestValue&gt;{document-reference}&lt;/ds:DigestValue&gt;
+    &lt;/ds:Reference&gt;
+  &lt;/ds:SignedInfo&gt;
+  &lt;ds:SignatureValue Id="SignatureValue-0"&gt;{signature-value}&lt;/ds:SignatureValue&gt;
+  &lt;ds:KeyInfo Id="KeyInfo-0"&gt;
+    &lt;ds:X509Data&gt;
+      &lt;ds:X509Certificate&gt;{certificate}&lt;/ds:X509Certificate&gt;
+    &lt;/ds:X509Data&gt;
+  &lt;/ds:KeyInfo&gt;
+  &lt;ds:Object Id="Dokument-0" MimeType="text/xml"&gt;{document}&lt;/ds:Object&gt;
+  &lt;ds:Object&gt;
+    &lt;xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature-0"&gt;
+      &lt;xades:SignedProperties xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="SignedProperties-0"&gt;
+        &lt;xades:SignedSignatureProperties&gt;
+          &lt;xades:SigningCertificate&gt;
+            &lt;xades:Cert&gt;
+              &lt;xades:CertDigest&gt;
+                &lt;ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"&gt;&lt;/ds:DigestMethod&gt;
+                &lt;ds:DigestValue&gt;{certificate-digest}&lt;/ds:DigestValue&gt;
+              &lt;/xades:CertDigest&gt;
+              &lt;xades:IssuerSerial&gt;
+                &lt;ds:X509IssuerName&gt;{certificate-issuer}&lt;/ds:X509IssuerName&gt;
+                &lt;ds:X509SerialNumber&gt;{certificate-serial}&lt;/ds:X509SerialNumber&gt;
+              &lt;/xades:IssuerSerial&gt;
+            &lt;/xades:Cert&gt;
+          &lt;/xades:SigningCertificate&gt;
+        &lt;/xades:SignedSignatureProperties&gt;
+      &lt;/xades:SignedProperties&gt;
+    &lt;/xades:QualifyingProperties&gt;
+  &lt;/ds:Object&gt;
+&lt;/ds:Signature&gt;</value>
+  </data>
+</root>

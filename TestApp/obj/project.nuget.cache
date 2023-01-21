@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NdEp9uOEP22XmF+pVyHCtgjVeRIwgE+xDVYPta3iG8Lnn93CflkkArtAB8WVy0W/5W/wrAqiEBjlk9zgJcxZ8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\konra\\RiderProjects\\Podpis2\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\konra\\.nuget\\packages\\system.componentmodel.composition\\7.0.0\\system.componentmodel.composition.7.0.0.nupkg.sha512",
+    "C:\\Users\\konra\\.nuget\\packages\\system.formats.asn1\\7.0.0\\system.formats.asn1.7.0.0.nupkg.sha512",
+    "C:\\Users\\konra\\.nuget\\packages\\system.security.cryptography.pkcs\\7.0.0\\system.security.cryptography.pkcs.7.0.0.nupkg.sha512",
+    "C:\\Users\\konra\\.nuget\\packages\\system.security.cryptography.xml\\7.0.1\\system.security.cryptography.xml.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

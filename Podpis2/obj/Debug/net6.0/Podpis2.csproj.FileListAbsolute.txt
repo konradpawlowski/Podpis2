@@ -1,0 +1,14 @@
+C:\Users\konra\RiderProjects\Podpis2\Podpis2\bin\Debug\net6.0\Podpis2.deps.json
+C:\Users\konra\RiderProjects\Podpis2\Podpis2\bin\Debug\net6.0\Podpis2.dll
+C:\Users\konra\RiderProjects\Podpis2\Podpis2\bin\Debug\net6.0\Podpis2.pdb
+C:\Users\konra\RiderProjects\Podpis2\Podpis2\obj\Debug\net6.0\Podpis2.csproj.AssemblyReference.cache
+C:\Users\konra\RiderProjects\Podpis2\Podpis2\obj\Debug\net6.0\Podpis2.res.Podpis.resources
+C:\Users\konra\RiderProjects\Podpis2\Podpis2\obj\Debug\net6.0\Podpis2.csproj.GenerateResource.cache
+C:\Users\konra\RiderProjects\Podpis2\Podpis2\obj\Debug\net6.0\Podpis2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konra\RiderProjects\Podpis2\Podpis2\obj\Debug\net6.0\Podpis2.AssemblyInfoInputs.cache
+C:\Users\konra\RiderProjects\Podpis2\Podpis2\obj\Debug\net6.0\Podpis2.AssemblyInfo.cs
+C:\Users\konra\RiderProjects\Podpis2\Podpis2\obj\Debug\net6.0\Podpis2.csproj.CoreCompileInputs.cache
+C:\Users\konra\RiderProjects\Podpis2\Podpis2\obj\Debug\net6.0\Podpis2.dll
+C:\Users\konra\RiderProjects\Podpis2\Podpis2\obj\Debug\net6.0\refint\Podpis2.dll
+C:\Users\konra\RiderProjects\Podpis2\Podpis2\obj\Debug\net6.0\Podpis2.pdb
+C:\Users\konra\RiderProjects\Podpis2\Podpis2\obj\Debug\net6.0\ref\Podpis2.dll
